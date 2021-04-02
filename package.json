@@ -16,8 +16,5 @@
     "semi": false,
     "singleQuote": true,
     "trailingComma": "all"
-  },
-  "devDependencies": {
-    "prettier": "^2.0.5"
   }
 }
